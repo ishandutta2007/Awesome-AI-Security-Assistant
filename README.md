@@ -70,7 +70,7 @@ The following interactive comparison table highlights enterprise-grade SaaS plat
 
 ## 🔓 Open-Source AI Security & SOC Projects
 
-Open-source projects offer self-hosted, air-gapped, and developer-centric building blocks for AI SOC automation. Sorted descending by GitHub Star Count ⭐.
+Open-source projects offer self-hosted, air-gapped, and developer-centric building blocks for AI SOC automation. Sorted descending by GitHub Stars_Count ⭐.
 
 ### 🌟 Project Directory & Star Rankings
 
